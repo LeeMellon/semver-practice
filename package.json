@@ -1,0 +1,29 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "jest": "^26.4.2",
+    "semantic-release": "^17.1.1"
+  },
+  "dependencies": {
+    "commitizen": "^4.2.1",
+    "lerna": "^3.22.1",
+    "semantic-release-cli": "^5.4.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "semantic-release": "semantic-release",
+    "cz": "git-cz"
+  },
+  "version": "0.0.0-development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeeMellon/semver-practice.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
