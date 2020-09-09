@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.2.2 (2020-09-09)
+
+
+### Bug Fixes
+
+* **package.json:** update package.json to be public and named semvar-practice ([4f62cda](https://github.com/LeeMellon/semver-practice/commit/4f62cda6a54e49fbe20c1706f9334c76cbdecd83))
+
+
+
+
+
 ## 0.2.1 (2020-09-09)
 
 **Note:** Version bump only for package @imgoodrich/package-three
