@@ -1,6 +1,6 @@
 {
   "name": "package-three",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a third test package",
   "author": "IMGoodrich <igoodrich@phase2technology.com>",
   "homepage": "https://github.com/LeeMellon/semver-practice#readme",
