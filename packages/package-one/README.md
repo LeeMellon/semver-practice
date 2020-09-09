@@ -1,11 +1,4 @@
 # `package-one`
 
-> TODO: description
+> Package-One is an array package of beguiling elegance.
 
-## Usage
-
-```
-const packageOne = require('package-one');
-
-// TODO: DEMONSTRATE API
-```
