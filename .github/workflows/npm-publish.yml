@@ -28,8 +28,8 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - run: npm ci
+      - run: echo '${{ github.actor }}'
       - run: npm run publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
