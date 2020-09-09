@@ -1,6 +1,6 @@
 {
-  "name": "package-one",
-  "version": "0.0.0",
+  "name": "@imgoodrich/package-one",
+  "version": "0.2.3",
   "description": "Test package the first",
   "author": "IMGoodrich <igoodrich@phase2technology.com>",
   "homepage": "https://github.com/LeeMellon/semver-practice#readme",
@@ -20,7 +20,11 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/LeeMellon/semver-practice/issues"
-  }
+  },
+  "gitHead": "4f99a171238b5ec6602c5336b566ca2b9cbe3998"
 }

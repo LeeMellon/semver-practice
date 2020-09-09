@@ -1,6 +1,5 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "semvaar-practice",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "jest": "^26.4.2",
