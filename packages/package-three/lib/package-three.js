@@ -1,6 +1,6 @@
 'use strict';
 
-const packageThree = [3,6,9,12,15];
+const packageThree = [9,18,27,36,45];
 
 module.exports = packageThree;
 
