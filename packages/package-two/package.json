@@ -1,1 +1,27 @@
-{"name":"package-two","version":"0.1.1","description":"Test package the second","author":"IMGoodrich <igoodrich@phase2technology.com>","homepage":"https://github.com/LeeMellon/semver-practice#readme","license":"MIT","main":"lib/package-two.js","directories":{"lib":"lib","test":"__tests__"},"files":["lib"],"repository":{"type":"git","url":"git+https://github.com/LeeMellon/semver-practice.git"},"scripts":{"test":"echo \"Error: run tests from root\" && exit 1"},"bugs":{"url":"https://github.com/LeeMellon/semver-practice/issues"},"gitHead":"4f99a171238b5ec6602c5336b566ca2b9cbe3998"}
+{
+  "name": "@imgoodrich/package-two",
+  "version": "0.1.1",
+  "description": "Test package the second",
+  "author": "IMGoodrich <igoodrich@phase2technology.com>",
+  "homepage": "https://github.com/LeeMellon/semver-practice#readme",
+  "license": "MIT",
+  "main": "lib/package-two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeMellon/semver-practice.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/LeeMellon/semver-practice/issues"
+  },
+  "gitHead": "4f99a171238b5ec6602c5336b566ca2b9cbe3998"
+}
