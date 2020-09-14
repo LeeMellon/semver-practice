@@ -1,5 +1,3 @@
-'use strict';
-
 const packageTwo = require('../lib/package-two');
 const packageOne = require('../../package-one/lib/package-one');
 
