@@ -31,10 +31,7 @@ jobs:
       - run: npm ci
       - run: git config user.email "igoodrich@phase2technology.com"
       - run: git config user.name "IMGoodrich"
-      - run: npx lerna
       - run: npm run postinstall
-      - run: npm run lerna bootsrap --hoist
-      - run: npm run lerna link
       - run: npm run publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
