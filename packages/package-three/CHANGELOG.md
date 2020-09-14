@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-three@0.2.9...@imgoodrich/package-three@0.3.0) (2020-09-14)
+
+
+### Features
+
+* **package-three:** adds the best readme.md ever....except from that last few ([3283606](https://github.com/LeeMellon/semver-practice/commit/3283606ee3713cd3246d22599de3f84f36a98bf6))
+* **package-three.js:** pockage three is non-strict/off the hook! ([abba763](https://github.com/LeeMellon/semver-practice/commit/abba76316d79abe5ed38073d89a3678585f9925e))
+
+
+
+
+
 ## 0.2.9 (2020-09-14)
 
 **Note:** Version bump only for package @imgoodrich/package-three
