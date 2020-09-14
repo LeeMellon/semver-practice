@@ -1,11 +1,3 @@
 # `package-three`
 
-> TODO: description
-
-## Usage
-
-```
-const packageThree = require('package-three');
-
-// TODO: DEMONSTRATE API
-```
+> Package three works with teh sacred number nine to provide you the freshest feeling in and after the shower! 
