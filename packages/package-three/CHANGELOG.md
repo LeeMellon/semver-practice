@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-three@0.2.12...@imgoodrich/package-three@0.3.0) (2020-09-15)
+
+
+### Features
+
+* **pack-3:** adds socds to package-three ([c71a6f0](https://github.com/LeeMellon/semver-practice/commit/c71a6f0aa481783a1896364a7e23a57385221930))
+* **pack-three:** adds use strict again ([7fb9e52](https://github.com/LeeMellon/semver-practice/commit/7fb9e52e818478539e7a7900a3d2da1dbeab9f45))
+
+
+
+
+
 ## [0.2.12](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-three@0.2.11...@imgoodrich/package-three@0.2.12) (2020-09-15)
 
 
