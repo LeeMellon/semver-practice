@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-one@0.2.11...@imgoodrich/package-one@0.3.0) (2020-09-15)
+
+
+### Features
+
+* make packageOne strict again ([5b3dde9](https://github.com/LeeMellon/semver-practice/commit/5b3dde9f9b4dc91ad15bf279fa865651d55da380))
+* remove use strict from package-one test. com as feat ([9f3887c](https://github.com/LeeMellon/semver-practice/commit/9f3887c47f4f230a3ee2af0e176d357231c74072))
+
+
+
+
+
 ## 0.2.11 (2020-09-14)
 
 **Note:** Version bump only for package @imgoodrich/package-one

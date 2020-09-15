@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.12](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-three@0.2.11...@imgoodrich/package-three@0.2.12) (2020-09-15)
+
+
+### Bug Fixes
+
+* same as before but com as fix ([83ab28c](https://github.com/LeeMellon/semver-practice/commit/83ab28c3396d44282cbb01f78f931dc5a6f63860))
+
+
+
+
+
 ## 0.2.11 (2020-09-14)
 
 **Note:** Version bump only for package @imgoodrich/package-three
