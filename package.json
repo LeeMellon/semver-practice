@@ -15,7 +15,7 @@
     "lerna:install": "lerna bootstrap --hoist && lerna link",
     "postinstall": "npm run lerna:install",
     "semantic-release": "semantic-release",
-    "publish": "lerna publish",
+    "publish": "lerna publish  --yes",
     "publish-sma": "semantic-release",
     "cz": "git-cz"
   },
