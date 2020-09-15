@@ -2,20 +2,18 @@
   "name": "semvaar-practice",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "jest": "^26.4.2",
-    "semantic-release": "^17.1.1"
+    "jest": "^26.4.2"
   },
   "dependencies": {
     "commitizen": "^4.2.1",
-    "lerna": "^3.22.1",
-    "semantic-release-cli": "^5.4.0"
+    "lerna": "^3.22.1"
   },
   "scripts": {
     "test": "jest",
     "lerna:install": "lerna bootstrap --hoist && lerna link",
     "postinstall": "npm run lerna:install",
     "semantic-release": "semantic-release",
-    "publish": "lerna publish  --yes",
+    "publish:lerna": "lerna publish  --yes",
     "publish-sma": "semantic-release",
     "cz": "git-cz"
   },
@@ -30,6 +28,8 @@
     }
   },
   "release": {
-    "branches": ["main"]
+    "branches": [
+      "main"
+    ]
   }
 }
