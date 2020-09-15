@@ -1,5 +1,5 @@
 'use strict';
 
-const packageOne = [1,2,3,4,5];
+const packageOne = [1,2,3,4,5,6];
 
 module.exports = packageOne;
