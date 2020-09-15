@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-one@0.3.0...@imgoodrich/package-one@0.4.0) (2020-09-15)
+
+
+### Features
+
+* adds teh newly invented number "6" to the package. Mind blown! ([ece6f98](https://github.com/LeeMellon/semver-practice/commit/ece6f98a5e4bf2e65e25e5c3d57c621959880ae4))
+
+
+
+
+
 # [0.3.0](https://github.com/LeeMellon/semver-practice/compare/@imgoodrich/package-one@0.2.11...@imgoodrich/package-one@0.3.0) (2020-09-15)
 
 
